@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SongRatanak
-- 👀 I’m interested in Web Developer and Cyber Security
-- 🌱 I’m currently learning web & networking
+- 👀 I’m interested in Web Developer and UX/UI
+- 🌱 I’m currently learning web & UX/UI Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
